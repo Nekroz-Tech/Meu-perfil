@@ -4,7 +4,7 @@ body {
   display: flex;
   justify-content: space-between;
   font family: 'roboto'. sans serif;
-  background: url("https://github.com/Nekroz-Tech/Portfolio/blob/main/matrix-fundo-red.jpg?raw=true");
+  background: url("https://raw.githubusercontent.com/Nekroz-Tech/Sobre_mim/main/matrix-fundo-red.jpg");
   background-position: relative;   
   background-repeat: no-repeat;
   background-position: center;
